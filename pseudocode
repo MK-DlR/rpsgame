@@ -1,0 +1,31 @@
+For each step in this project, be sure to do the following:
+- Plan or pseudocode your solution.
+- Write the code.
+- Test your code to make sure it works.
+
+
+1. Write the logic to get the computer choice
+    Computer is randomly assigned number (0, 1, 2)
+    Number is assigned string value (rock, paper, scissors)
+    Chosen string value is returned
+
+2. Write the logic to get the human choice
+    When user inputs a string (rock, paper, scissors) 
+    In prompt method
+    Choice is returned
+
+3. Declare the players score variables
+    User score starts at 0 variable
+    Computer score starts at 0 variable
+    When user or computer wins
+    Variable is incremented by 1
+
+4. Write the logic to play a single round
+    User choice is taken as argument
+    Computer choice is taken as argument
+    Round winner/loser is announced by string
+    In console log
+    Winner's score variable is incremented by 1
+
+5. Write the logic to play the entire game
+    pseudocode
