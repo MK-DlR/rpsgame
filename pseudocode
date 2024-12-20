@@ -1,4 +1,5 @@
 ORIGINAL
+
 1. create new function "getComputerChoice"
    a. write code so that it randomly returns r/p/s (using math.random)
 
@@ -15,14 +16,18 @@ ORIGINAL
    d. and increments winners score variable ("humanScore" or "computerScore")
 
 DOM
+
 1. create three buttons (r/p/s)
    a. add event listener to the buttons
-      a. that calls the playRound function
-      b. with the correct playerSelection
-      c. every time a button is clicked
+   a. that calls the playRound function
+   b. with the correct playerSelection
+   c. every time a button is clicked
 
-3. add a div for displaying results
+2. add a div for displaying results
    and change all console.log's into DOM methods
 
-4. display the running score
+3. display the running score
    and announce a winner once one player reaches 5 points
+
+https://stackoverflow.com/questions/63836630/use-a-button-click-to-make-a-variable-in-js
+https://www.geeksforgeeks.org/rock-paper-and-scissor-game-using-javascript/
