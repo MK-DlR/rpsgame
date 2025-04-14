@@ -1,5 +1,7 @@
 # rpsgame
 
+TOP rock/paper/scissors project
+
 live preview: https://milkteapuppy.github.io/rpsgame/
 
 use html and js to create a game
